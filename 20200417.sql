@@ -207,6 +207,3 @@ ORDER BY ename DESC;
 SELECT *
 FROM emp
 ORDER BY job ASC, hiredate DESC;
-
-
-
